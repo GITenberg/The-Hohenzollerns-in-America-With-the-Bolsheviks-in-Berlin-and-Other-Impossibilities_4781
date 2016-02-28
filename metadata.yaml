@@ -1,0 +1,27 @@
+_repo: The-Hohenzollerns-in-America-With-the-Bolsheviks-in-Berlin-and-Other-Impossibilities_4781
+creator:
+  author:
+    agent_name: Leacock, Stephen
+    alias: Leacock, Stephen Butler
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '1221'
+    url: http://www.gutenberg.org/2009/agents/1221
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Leacock
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4781'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian wit and humor'
+- !lcc 'PS'
+tableOfContents: The Hohenzollerns in America -- With the Bolsheviks in Berlin --
+  Afternoon tea with the Sultan -- Echoes of the war -- Other impossibilities.
+title: "The Hohenzollerns in America\r\nWith the Bolsheviks in Berlin and Other Impossibilities"
+url: http://www.gutenberg.org/ebooks/4781
